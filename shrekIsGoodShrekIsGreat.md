@@ -1,5 +1,5 @@
-<pre>Number of characters written: 46
+<pre>Number of characters written: 47
 Times rewritten: 0
 
 ⢀⡴⠑⡄⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
-⠸⡇⠀⠿⡀⠀⠀⠀⣀⡴
+⠸⡇⠀⠿⡀⠀⠀⠀⣀⡴⢿
