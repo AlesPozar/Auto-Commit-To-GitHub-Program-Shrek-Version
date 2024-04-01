@@ -1,4 +1,4 @@
-<pre>Number of characters written: 16
+<pre>Number of characters written: 17
 Times rewritten: 0
 
-⢀⡴⠑⡄⠀⠀⠀⠀⠀⠀⠀⣀⣀
+⢀⡴⠑⡄⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤
