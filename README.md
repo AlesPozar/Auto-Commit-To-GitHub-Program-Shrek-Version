@@ -1,4 +1,7 @@
 # Auto-Commit-To-GitHub-Program-Shrek-Version
+NOTE: THIS IS OBVIOUSLY A JOKE BUT IT WAS STILL A FUN ONE-DAY PROJECT I CAME UP WITH :NOTE
+
+
 A Java-based program that auto-commits whichever script you want (character by character) to your GitHub repository at random intervals during the day, making your contribution graph look cool 😎. The published version is based on the Shrek script.
 <h3>SETUP</h3>
 Before starting the program make sure you do those things:
