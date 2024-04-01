@@ -53,7 +53,7 @@ It should take a few seconds, but sometimes GitHub needs a bit more time to conn
 
 If you get any errors that stop the program mid-running (probably when you lose internet connection), just restart the program.
 
-If you get any error like this:
+In case you get any error like this:
 <pre>Month DD, YYYY 0:00:00 PM org.kohsuke.github.GitHubClient retryConnectionError</pre>
 and your program is still running don't worry, this might happen from time to time when trying to update the content in the provided .md file. There is a code in place to wait for 1s before retrying the update. If this happens 5 consecutive times, the final error will be printed, and the program will get stopped.
 
